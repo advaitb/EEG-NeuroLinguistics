@@ -1,3 +1,4 @@
+#Authors: Keshav Patil and Advait Balaji(@advaitb)
 import pyeeg
 import scipy.io as sio
 import numpy as np
