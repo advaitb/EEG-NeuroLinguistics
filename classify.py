@@ -1,4 +1,4 @@
-# Author: Aparajita Haldar (@ahaldar)
+# Author: Advait Balaji (@advaitb) and Aparajita Haldar (@ahaldar)
 
 from keras.models import Sequential
 from keras.layers import Dense
